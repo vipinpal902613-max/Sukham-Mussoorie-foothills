@@ -1,0 +1,9 @@
+{
+  "name": "Sukham Mussoorie Foothills",
+  "short_name": "Sukham",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f7f5ef",
+  "theme_color": "#173f35",
+  "description": "Sukham Mussoorie Foothills residential project app"
+}
